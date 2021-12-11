@@ -1,0 +1,18 @@
+[[package]]
+name = "cursengine"
+version = "0.1.3"
+description = ""
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "9499fa2ce0f9e8e06df16870990e92b1b8089aff09e3686b90db4c771f4fd470"
+
+[metadata.files]
+cursengine = [
+    {file = "CursEngine-0.1.3-py3-none-any.whl", hash = "sha256:5e33d4b24f5a72d66d331cf30b8eabed0e4a8129dffe2f434ff3d39eef4fc2ec"},
+    {file = "CursEngine-0.1.3.tar.gz", hash = "sha256:0913af133b7554ba2e81b3ad6c1b6b563237b0bbb02cab954c3fd603e2420e94"},
+]
